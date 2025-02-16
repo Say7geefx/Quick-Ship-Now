@@ -69,8 +69,8 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
+          - pb-6
+          - pt-8
           - pl-16
           - pr-16
         justifyContent: center
@@ -105,6 +105,8 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pt-28
       subtitle:
         textAlign: left
   - type: ImageGallerySection
