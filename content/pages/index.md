@@ -172,7 +172,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Cargo Cover Solution
-        subtitle: Shipping Solutions
+        subtitle: ''
         text: >+
           As the loss or damage of your cargo can understandably cause financial
           and emotional stress, you can always count on QuickShipNow. We are
