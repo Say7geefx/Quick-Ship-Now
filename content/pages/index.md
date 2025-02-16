@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: WELCOME TO QUICK SHIPNOW
+      text: WELCOME TO QUICK SHIP NOW
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
