@@ -60,7 +60,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'https://quickshipnow.'
+    subtitle: ''
     items: []
     actions: []
     elementId: ''
