@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: dlrckwunf
+      text: WELCOME TO QUICKSHIPNOW
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
