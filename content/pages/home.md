@@ -1,12 +1,12 @@
 ---
+type: PageLayout
 title: Home
-slug: /home
 sections:
   - type: GenericSection
     title:
-      text: WELCOME TO QUICKSHIPNOW
-      color: text-dark
       type: TitleBlock
+      text: WELCOME TO QUICK SHIP NOW
+      color: text-dark
     subtitle: ''
     text: >+
       QuickShipNow is a reliable and fast delivery service that ensures your
@@ -20,7 +20,8 @@ sections:
       and experience the convenience of fast and reliable shipping
 
     actions:
-      - label: Track Shipment
+      - type: Button
+        label: Track Shipment
         altText: ''
         url: /
         showIcon: false
@@ -28,13 +29,20 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-        type: Button
     media:
+      type: ImageBlock
       altText: Unblock your team boost your time to production preview
       elementId: ''
-      type: ImageBlock
     elementId: ''
     colors: bg-light-fg-dark
+    backgroundImage:
+      type: BackgroundImage
+      url: /images/LogOOOO.jpg
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
     styles:
       self:
         alignItems: center
@@ -44,22 +52,14 @@ sections:
           - pl-16
           - pb-60
           - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/LogOOOO.jpg
   - type: FeaturedItemsSection
     title:
+      type: TitleBlock
       text: 'Moving the World, Together.'
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
     subtitle: 'Success Built on Long-term Partnerships '
     items: []
     actions: []
@@ -286,34 +286,44 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: SEND A MESSAGE
       color: text-dark
-      type: TitleBlock
     subtitle: ''
     text: ''
+    actions: []
     media:
+      type: FormBlock
       fields:
-        - name: name
+        - type: TextFormControl
+          name: name
           label: Name
           hideLabel: true
           placeholder: Your name
           isRequired: true
           width: full
-          type: TextFormControl
-        - name: email
+        - type: EmailFormControl
+          name: email
           label: Email
           hideLabel: true
           placeholder: Your email
           isRequired: true
           width: full
-          type: EmailFormControl
-        - name: message
+        - type: TextareaFormControl
+          name: message
           label: Message
           hideLabel: true
           placeholder: Your message
           width: full
-          type: TextareaFormControl
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
       elementId: contact-form
       styles:
         self:
@@ -326,25 +336,16 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
     badge:
+      type: Badge
       label: Contact Us
       color: text-neutral
-      type: Badge
     colors: bg-neutral-fg-dark
-    type: GenericSection
+slug: /home
 seo:
+  type: Seo
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
-  type: Seo
-type: PageLayout
+  metaTags: []
 ---
