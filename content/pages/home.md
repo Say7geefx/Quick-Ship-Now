@@ -21,7 +21,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: TRACK PACKAGE
         altText: ''
         url: /blog
         showIcon: false
