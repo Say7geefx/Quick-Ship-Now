@@ -54,7 +54,7 @@ sections:
       url: /images/LogOOOO.jpg
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'Moving the World, Together.'
       color: text-dark
       styles:
         self:
