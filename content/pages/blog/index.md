@@ -13,8 +13,8 @@ topSections:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: false
     showExcerpt: false
-    showDate: true
-    showAuthor: true
+    showDate: false
+    showAuthor: false
     variant: big-list
     colors: bg-light-fg-dark
     styles:
