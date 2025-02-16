@@ -24,7 +24,7 @@ sections:
         label: TRACK PACKAGE
         altText: chinemeremjohnboscoe.aftership.com/tracking
         url: /chinemeremjohnboscoe.aftership.com/tracking
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
