@@ -350,4 +350,5 @@ seo:
   metaTags:
     - type: MetaTag
       property: ''
+isDraft: true
 ---
