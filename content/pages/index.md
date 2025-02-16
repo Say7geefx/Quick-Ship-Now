@@ -55,7 +55,7 @@ sections:
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: auto
-      backgroundPosition: left
+      backgroundPosition: ''
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/aerial-view-cargo-ship-cargo-container-harbor.jpg
