@@ -182,7 +182,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/3d-person-holding-box-other-boxes.jpg
-          altText: Lightning bolt symbol on red background
+          altText: ''
           elementId: ''
           styles:
             self:
