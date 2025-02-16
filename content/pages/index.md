@@ -20,7 +20,7 @@ sections:
       and experience the convenience of fast and reliable shipping
 
     actions:
-      - label: Get started
+      - label: Track Shipment
         altText: ''
         url: /
         showIcon: false
