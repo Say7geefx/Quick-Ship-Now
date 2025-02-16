@@ -80,6 +80,9 @@ sections:
       type: Badge
       label: This is a badge
       color: text-primary
+      styles:
+        self:
+          textAlign: right
   - type: GenericSection
     subtitle: ''
     text: ''
