@@ -169,6 +169,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
   - title:
       text: Generic Section With A Form
       color: text-dark
