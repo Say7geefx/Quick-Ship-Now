@@ -105,6 +105,8 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pt-28
       subtitle:
         textAlign: left
   - type: ImageGallerySection
