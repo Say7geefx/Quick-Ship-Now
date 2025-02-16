@@ -60,7 +60,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Success Built on Long-term Partnerships '
+    subtitle: 'https://quickshipnow.'
     items: []
     actions: []
     elementId: ''
