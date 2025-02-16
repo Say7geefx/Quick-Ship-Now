@@ -256,7 +256,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: TRACK
         altText: ''
         url: /
         showIcon: false
