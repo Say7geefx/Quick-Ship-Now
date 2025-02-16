@@ -82,7 +82,7 @@ sections:
       color: text-primary
       styles:
         self:
-          textAlign: right
+          textAlign: center
           fontWeight: 500
   - type: GenericSection
     subtitle: ''
