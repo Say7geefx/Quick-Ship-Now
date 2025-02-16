@@ -49,14 +49,7 @@
         "links": [],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "sevensavy@zohomail.com",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
