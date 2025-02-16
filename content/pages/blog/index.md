@@ -11,7 +11,7 @@ topSections:
     subtitle: This is the subtitle
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: true
     showAuthor: true
