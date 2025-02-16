@@ -341,7 +341,7 @@ sections:
       label: Contact Us
       color: text-neutral
     colors: bg-neutral-fg-dark
-slug: /new page
+slug: /home
 seo:
   type: Seo
   metaTitle: 'Home '
