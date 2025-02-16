@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/logo.......jpg",
-        "altText": "https://quickshipnow.netlify.app",
+        "altText": "Fast and Reliable for all your needs",
         "styles": {
             "self": {
                 "margin": [
@@ -10,7 +10,7 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "https://quickshipnow.netlify.app"
+        "elementId": ""
     },
     "primaryLinks": [
         {
@@ -20,7 +20,7 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "altText": "https://quickshipnow.netlify.app/"
+            "altText": ""
         },
         {
             "label": "Track Package",
@@ -33,7 +33,8 @@
         }
     ],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-dark-fg-light",
-    "type": "Header"
+    "type": "Header",
+    "title": ""
 }
