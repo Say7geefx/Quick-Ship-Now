@@ -151,7 +151,7 @@ sections:
     colors: bg-neutral-fg-dark
     styles:
       self:
-        flexDirection: col
+        flexDirection: row
         justifyContent: center
       subtitle:
         textAlign: left
