@@ -58,7 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/aerial-view-cargo-ship-cargo-container-harbor.jpg
+      url: /images/home package.avif
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
