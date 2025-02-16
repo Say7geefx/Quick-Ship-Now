@@ -171,7 +171,7 @@ sections:
       needs.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Cargo Cover Solution
         subtitle: Shipping Solutions
         text: >+
           As the loss or damage of your cargo can understandably cause financial
