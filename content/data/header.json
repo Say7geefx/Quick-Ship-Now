@@ -15,7 +15,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "home",
+            "url": "https://quickshipnow.netlify.app",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
