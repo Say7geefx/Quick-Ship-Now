@@ -60,7 +60,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Success Built on Long-term Partnerships
+    subtitle: 'Success Built on Long-term Partnerships '
     items: []
     actions: []
     elementId: ''
