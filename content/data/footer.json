@@ -16,7 +16,7 @@
             {
                 "label": "Home",
                 "altText": "",
-                "url": "/",
+                "url": "/home",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
