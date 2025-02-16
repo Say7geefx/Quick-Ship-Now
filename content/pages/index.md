@@ -341,7 +341,7 @@ sections:
       label: Contact Us
       color: text-neutral
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
