@@ -347,5 +347,6 @@ seo:
   metaTitle: 'Home '
   metaDescription: ''
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
