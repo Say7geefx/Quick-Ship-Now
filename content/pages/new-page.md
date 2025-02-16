@@ -344,7 +344,7 @@ sections:
 slug: /new page
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: 'Home '
   metaDescription: ''
   socialImage: /images/main-hero.jpg
   metaTags: []
