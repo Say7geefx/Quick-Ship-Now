@@ -22,7 +22,7 @@ sections:
     actions:
       - type: Button
         label: TRACK PACKAGE
-        altText: ''
+        altText: chinemeremjohnboscoe.aftership.com/tracking
         url: /chinemeremjohnboscoe.aftership.com/tracking
         showIcon: false
         icon: arrowRight
