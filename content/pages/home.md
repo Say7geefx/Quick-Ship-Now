@@ -362,14 +362,8 @@ sections:
         title: Faux Fur Throw
         subtitle: $ 88 – $ 176
         text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
+          <div id="as-root"></div>\<script>(function(e,t,n){var
+          r,i=e.getElementsByTagName(t)\[0];if(e.getElementById(n))return;r=e.createElement(t);r.id=n;r.src="https\://button.aftership.com/all.js?username=chinemeremjohnboscoe";i.parentNode.insertBefore(r,i)})(document,"script","aftership-jssdk")</script>
 
 
 
