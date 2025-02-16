@@ -179,7 +179,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/3d-person-holding-box-other-boxes.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
