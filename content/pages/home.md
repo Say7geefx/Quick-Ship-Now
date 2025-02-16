@@ -83,6 +83,7 @@ sections:
       styles:
         self:
           textAlign: right
+          fontWeight: 500
   - type: GenericSection
     subtitle: ''
     text: ''
