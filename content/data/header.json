@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/logo.......jpg",
-        "altText": "Fast and Reliable for all your needs",
+        "altText": "",
         "styles": {
             "self": {
                 "margin": [
@@ -33,7 +33,7 @@
         }
     ],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-right",
+    "variant": "logo-left-primary-nav-centered",
     "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": ""
