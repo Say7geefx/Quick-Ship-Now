@@ -21,8 +21,8 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
+            "label": "Track Package",
+            "altText": "",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
