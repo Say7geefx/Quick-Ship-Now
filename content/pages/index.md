@@ -53,7 +53,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/home package.avif
+      url: /images/LogOOOO.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
