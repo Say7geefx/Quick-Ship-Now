@@ -2,7 +2,12 @@
     "logo": {
         "url": "/images/delivery logo.jpg",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "borderRadius": "x-small"
+            }
+        }
     },
     "text": "A description of your brand",
     "primaryLinks": {
