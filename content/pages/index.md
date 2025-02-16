@@ -237,10 +237,7 @@ sections:
       - type: FeaturedItem
         title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Cargoes such as pharmaceuticals, perishables, and even automotives\_need to reach their final destination with top speed and as a priority. To ensure the reliable, transparent, and agile transportation of your cargo whenever you need it, QuickShipNow has designed their Air Cargo Solutions to suit your needs. For a trusted air cargo solution, look no further than QuickShipNow.\n\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/icon3.svg
