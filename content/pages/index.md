@@ -314,7 +314,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Quick Ship Now
       url: 'https://youtu.be/5NV8UgA2dOI'
       autoplay: true
       loop: true
