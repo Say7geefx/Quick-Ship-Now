@@ -21,15 +21,6 @@ sections:
 
     actions:
       - type: Button
-        label: Track Shipment
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Button
         label: Get started
         altText: ''
         url: /blog
