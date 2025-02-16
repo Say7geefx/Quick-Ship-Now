@@ -268,7 +268,7 @@ sections:
       - type: Button
         label: TRACK
         altText: ''
-        url: /
+        url: /chinemeremjohnboscoe.aftership.com/tracking
         showIcon: false
         icon: arrowRight
         iconPosition: right
