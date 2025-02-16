@@ -21,13 +21,13 @@ sections:
 
     actions:
       - type: Button
-        label: Track Shipment
+        label: Get started
         altText: ''
-        url: /
+        url: /blog
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     media:
       type: ImageBlock
@@ -60,7 +60,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Success Built on Long-term Partnerships '
+    subtitle: 'https://quickshipnow.'
     items: []
     actions: []
     elementId: ''
@@ -76,6 +76,14 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
   - type: GenericSection
     subtitle: ''
     text: ''
@@ -86,8 +94,8 @@ sections:
       url: 'https://youtu.be/5NV8UgA2dOI'
       autoplay: true
       loop: true
-      muted: true
-      controls: false
+      muted: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
