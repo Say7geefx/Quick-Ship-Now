@@ -1,0 +1,515 @@
+{
+    "model": "PageLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "home",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "h"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Home",
+                "sections": [
+                    {
+                        "$$type": "GenericSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "WELCOME TO QUICK SHIP NOW",
+                            "color": "text-dark",
+                            "styles": null
+                        },
+                        "subtitle": "",
+                        "text": "QuickShipNow is a reliable and fast delivery service that ensures your packages arrive at their destination quickly and efficiently. With our extensive network and cutting-edge technology, we offer a range of delivery options to suit your needs, from express shipping to same-day delivery. Our team of experienced drivers and state-of-the-art equipment ensure that your packages are handled with the utmost care, and our easy-to-use online tracking system allows you to keep tabs on your deliveries in real-time. Trust QuickShipNow for all your delivery needs and experience the convenience of fast and reliable shipping\n\n",
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Track Shipment",
+                                "altText": "",
+                                "url": "/",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "media": {
+                            "$$type": "ImageBlock",
+                            "url": null,
+                            "altText": "Unblock your team boost your time to production preview",
+                            "elementId": "",
+                            "styles": null
+                        },
+                        "badge": null,
+                        "elementId": "",
+                        "colors": "bg-light-fg-dark",
+                        "backgroundImage": {
+                            "$$type": "BackgroundImage",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/LogOOOO.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "altText of the image",
+                            "backgroundSize": "cover",
+                            "backgroundPosition": "center",
+                            "backgroundRepeat": "no-repeat",
+                            "opacity": 100
+                        },
+                        "styles": {
+                            "self": {
+                                "alignItems": "center",
+                                "flexDirection": "row",
+                                "padding": [
+                                    "pt-8",
+                                    "pl-16",
+                                    "pb-60",
+                                    "pr-16"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItemsSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Moving the World, Together.",
+                            "color": "text-dark",
+                            "styles": {
+                                "self": {
+                                    "textAlign": "center"
+                                }
+                            }
+                        },
+                        "subtitle": "Success Built on Long-term Partnerships ",
+                        "items": [],
+                        "actions": [],
+                        "badge": null,
+                        "elementId": "",
+                        "variant": "three-col-grid",
+                        "colors": "bg-neutral-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pb-6",
+                                    "pt-8",
+                                    "pl-16",
+                                    "pr-16"
+                                ],
+                                "justifyContent": "center"
+                            },
+                            "subtitle": {
+                                "textAlign": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "GenericSection",
+                        "title": null,
+                        "subtitle": "",
+                        "text": "",
+                        "actions": [],
+                        "media": {
+                            "$$type": "VideoBlock",
+                            "title": "Quick Ship Now",
+                            "url": "https://youtu.be/5NV8UgA2dOI",
+                            "autoplay": true,
+                            "loop": true,
+                            "muted": true,
+                            "controls": false,
+                            "aspectRatio": "16:9",
+                            "elementId": null,
+                            "styles": {
+                                "self": {
+                                    "padding": [
+                                        "pt-2",
+                                        "pb-2",
+                                        "pl-2",
+                                        "pr-2"
+                                    ],
+                                    "borderColor": "border-dark",
+                                    "borderStyle": "solid",
+                                    "borderWidth": 1,
+                                    "borderRadius": "large"
+                                }
+                            }
+                        },
+                        "badge": null,
+                        "elementId": null,
+                        "colors": "bg-neutral-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "flexDirection": "row",
+                                "justifyContent": "center",
+                                "padding": [
+                                    "pt-28"
+                                ]
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "ImageGallerySection",
+                        "title": null,
+                        "subtitle": "Award winning enterprises trust us",
+                        "images": [
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/empathy-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Empathy logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/wellster-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Wellster logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/vise-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Vise logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/telus-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Telus logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/contenful-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Contentful logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/sanity-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Sanity logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": null,
+                                "altText": "Rangle logo",
+                                "elementId": "",
+                                "styles": null
+                            }
+                        ],
+                        "badge": null,
+                        "elementId": "",
+                        "motion": "move-to-left",
+                        "colors": "bg-neutral-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "margin": [
+                                    "mt-0",
+                                    "ml-0",
+                                    "mb-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-16",
+                                    "pl-16",
+                                    "pb-16",
+                                    "pr-16"
+                                ],
+                                "justifyContent": "center"
+                            },
+                            "subtitle": {
+                                "textAlign": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItemsSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Our Solutions",
+                            "color": "text-dark",
+                            "styles": {
+                                "self": {
+                                    "textAlign": "center"
+                                }
+                            }
+                        },
+                        "subtitle": "As well as being a global leader in container shipping, our worldwide teams of industry specific experts mean we can offer our customers round-the-clock personalised service. This ensures we deliver fast and reliable transit times, and that we provide the best solutions for your needs.",
+                        "items": [
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "Cargo Cover Solution",
+                                "tagline": null,
+                                "subtitle": "",
+                                "text": "As the loss or damage of your cargo can understandably cause financial and emotional stress, you can always count on QuickShipNow. We are here to offer you a comprehensive coverage for your cargo, for maritime and inland transportation.\n\n",
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/3d-person-holding-box-other-boxes.jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "",
+                                    "elementId": "",
+                                    "styles": {
+                                        "self": {
+                                            "borderRadius": "x-large"
+                                        }
+                                    }
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": {
+                                    "self": {
+                                        "padding": [
+                                            "pt-8",
+                                            "pl-8",
+                                            "pb-8",
+                                            "pr-8"
+                                        ],
+                                        "borderRadius": "x-large",
+                                        "flexDirection": "row",
+                                        "justifyContent": "center",
+                                        "textAlign": "left"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "Shipping Solutions",
+                                "tagline": null,
+                                "subtitle": "",
+                                "text": "Whatever you are importing or exporting, whether it is food or clothing, chemicals or pharma, our ocean shipping solutions get products to their destination. From selecting the right container for your goods, to loading safely and efficiently at the portside, to monitoring the condition of your container throughout its time at sea, we will support you at every step of your cargo’s journey.\n\n\n\n\n\n\n",
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/aerial-view-cargo-ship-cargo-container-harbor.jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Featured icon two",
+                                    "elementId": "",
+                                    "styles": null
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": {
+                                    "self": {
+                                        "padding": [
+                                            "pt-8",
+                                            "pl-8",
+                                            "pb-8",
+                                            "pr-8"
+                                        ],
+                                        "borderRadius": "x-large",
+                                        "flexDirection": "row",
+                                        "textAlign": "left",
+                                        "justifyContent": "center"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "Air Cargo Solution",
+                                "tagline": null,
+                                "subtitle": "Faster",
+                                "text": "Cargoes such as pharmaceuticals, perishables, and even automotives need to reach their final destination with top speed and as a priority. To ensure the reliable, transparent, and agile transportation of your cargo whenever you need it, QuickShipNow has designed their Air Cargo Solutions to suit your needs. For a trusted air cargo solution, look no further than QuickShipNow.\n\n\n\n\n",
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/transportation-illustration-ai-generated.jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Featured icon three",
+                                    "elementId": "",
+                                    "styles": null
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": {
+                                    "self": {
+                                        "padding": [
+                                            "pt-8",
+                                            "pl-8",
+                                            "pb-8",
+                                            "pr-8"
+                                        ],
+                                        "borderRadius": "x-large",
+                                        "flexDirection": "row"
+                                    }
+                                }
+                            }
+                        ],
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "TRACK",
+                                "altText": "",
+                                "url": "/",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "primary",
+                                "elementId": ""
+                            }
+                        ],
+                        "badge": {
+                            "$$type": "Badge",
+                            "label": "",
+                            "color": "text-primary",
+                            "styles": {
+                                "self": {
+                                    "textAlign": "center"
+                                }
+                            }
+                        },
+                        "elementId": "",
+                        "variant": "three-col-grid",
+                        "colors": "bg-neutral-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pb-16",
+                                    "pt-16",
+                                    "pl-16",
+                                    "pr-16"
+                                ],
+                                "justifyContent": "center"
+                            },
+                            "subtitle": {
+                                "textAlign": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "GenericSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "SEND A MESSAGE",
+                            "color": "text-dark",
+                            "styles": null
+                        },
+                        "subtitle": "",
+                        "text": "",
+                        "actions": [],
+                        "media": {
+                            "$$type": "FormBlock",
+                            "fields": [
+                                {
+                                    "$$type": "TextFormControl",
+                                    "name": "name",
+                                    "label": "Name",
+                                    "hideLabel": true,
+                                    "placeholder": "Your name",
+                                    "isRequired": true,
+                                    "width": "full"
+                                },
+                                {
+                                    "$$type": "EmailFormControl",
+                                    "name": "email",
+                                    "label": "Email",
+                                    "hideLabel": true,
+                                    "placeholder": "Your email",
+                                    "isRequired": true,
+                                    "width": "full"
+                                },
+                                {
+                                    "$$type": "TextareaFormControl",
+                                    "name": "message",
+                                    "label": "Message",
+                                    "hideLabel": true,
+                                    "placeholder": "Your message",
+                                    "isRequired": null,
+                                    "width": "full"
+                                }
+                            ],
+                            "submitButton": {
+                                "$$type": "SubmitButtonFormControl",
+                                "label": "Submit",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "primary",
+                                "elementId": null
+                            },
+                            "elementId": "contact-form",
+                            "styles": {
+                                "self": {
+                                    "padding": [
+                                        "pt-6",
+                                        "pb-6",
+                                        "pl-6",
+                                        "pr-6"
+                                    ],
+                                    "borderColor": "border-dark",
+                                    "borderStyle": "solid",
+                                    "borderWidth": 1,
+                                    "borderRadius": "large"
+                                }
+                            }
+                        },
+                        "badge": {
+                            "$$type": "Badge",
+                            "label": "Contact Us",
+                            "color": "text-neutral",
+                            "styles": null
+                        },
+                        "elementId": null,
+                        "colors": "bg-neutral-fg-dark",
+                        "backgroundImage": null,
+                        "styles": null
+                    }
+                ],
+                "slug": "/home",
+                "isDraft": null,
+                "seo": {
+                    "$$type": "Seo",
+                    "metaTitle": "Home - Demo site",
+                    "metaDescription": "This demo site is built with Netlify Create.",
+                    "addTitleSuffix": null,
+                    "socialImage": {
+                        "$$ref": "stackbit_asset_id:static:public/images/main-hero.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "metaTags": []
+                }
+            },
+            "thumbnail": "images/page-layout-home-57bd.png"
+        }
+    ]
+}
