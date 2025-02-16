@@ -173,10 +173,12 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Shipping Solutions
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          As the loss or damage of your cargo can understandably cause financial
+          and emotional stress, you can always count on QuickShipNow. We are
+          here to offer you a comprehensive coverage for your cargo, for
+          maritime and inland transportation.
+
         image:
           type: ImageBlock
           url: /images/3d-person-holding-box-other-boxes.jpg
