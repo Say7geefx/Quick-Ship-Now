@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /home
+slug: 'https://quickshipnow.netlify.app/'
 sections:
   - type: GenericSection
     title:
