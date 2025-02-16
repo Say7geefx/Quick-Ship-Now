@@ -21,9 +21,9 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: TRACK PACKAGE
         altText: ''
-        url: /blog
+        url: /chinemeremjohnboscoe.aftership.com/tracking
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -268,7 +268,7 @@ sections:
       - type: Button
         label: TRACK
         altText: ''
-        url: /
+        url: /chinemeremjohnboscoe.aftership.com/tracking
         showIcon: false
         icon: arrowRight
         iconPosition: right
