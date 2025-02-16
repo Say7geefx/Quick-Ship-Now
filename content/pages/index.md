@@ -218,7 +218,8 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: >-
+            /images/aerial-view-top-speed-with-beautiful-wave-of-container-ship-full-load-container-with-crane.jpg
           altText: Featured icon two
           elementId: ''
         actions: []
