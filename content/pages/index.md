@@ -53,7 +53,7 @@ sections:
       opacity: 100
       url: /images/LogOOOO.jpg
   - type: ImageGallerySection
-    subtitle: ''
+    subtitle: Award winning enterprises trust us
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
