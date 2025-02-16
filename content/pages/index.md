@@ -164,10 +164,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-    title:
-      type: TitleBlock
-      text: This Is A Big Headline
-      color: text-dark
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
