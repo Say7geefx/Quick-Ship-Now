@@ -22,7 +22,7 @@
         },
         {
             "label": "Track Package",
-            "altText": "Blog",
+            "altText": "",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
