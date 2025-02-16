@@ -7,7 +7,7 @@ sections:
       text: WELCOME TO QUICK SHIP NOW
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       QuickShipNow is a reliable and fast delivery service that ensures your
       packages arrive at their destination quickly and efficiently. With our
