@@ -344,8 +344,10 @@ sections:
 slug: /new page
 seo:
   type: Seo
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: 'Home '
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
+      property: ''
 ---
