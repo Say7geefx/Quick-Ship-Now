@@ -60,7 +60,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Success Built on Long-term Partnerships
     items:
       - type: FeaturedItem
         title: 500k
