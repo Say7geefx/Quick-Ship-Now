@@ -22,9 +22,9 @@ sections:
     actions:
       - type: Button
         label: TRACK PACKAGE
-        altText: chinemeremjohnboscoe.aftership.com/tracking
-        url: '/https://chinemeremjohnboscoe.aftership.com/tracking'
-        showIcon: true
+        altText: ''
+        url: 'https://quickshipnow.netlify.app/blog/'
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -268,7 +268,7 @@ sections:
       - type: Button
         label: TRACK
         altText: ''
-        url: /chinemeremjohnboscoe.aftership.com/tracking
+        url: 'https://quickshipnow.netlify.app/blog/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -325,6 +325,7 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
+          isRequired: true
       submitButton:
         type: SubmitButtonFormControl
         label: Submit

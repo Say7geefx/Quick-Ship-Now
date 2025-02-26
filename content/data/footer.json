@@ -24,7 +24,7 @@
             },
             {
                 "label": "Tracking Code",
-                "url": "/chinemeremjohnboscoe.aftership.com/tracking",
+                "url": "https://quickshipnow.netlify.app/blog/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -34,7 +34,7 @@
                 "type": "Link",
                 "label": "Send email",
                 "altText": "Play",
-                "url": "/sevensavy@zohomail.com",
+                "url": "sevensavy@zohomail.com",
                 "showIcon": true,
                 "icon": "mail",
                 "iconPosition": "right",
