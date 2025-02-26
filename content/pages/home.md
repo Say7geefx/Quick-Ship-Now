@@ -22,7 +22,7 @@ sections:
     actions:
       - type: Button
         label: TRACK PACKAGE
-        altText: chinemeremjohnboscoe.aftership.com/tracking
+        altText: ''
         url: 'https://quickshipnow.netlify.app/blog/'
         showIcon: true
         icon: arrowRight
