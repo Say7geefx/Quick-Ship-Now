@@ -76,14 +76,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 700
   - type: GenericSection
     subtitle: ''
     text: ''
