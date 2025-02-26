@@ -23,7 +23,7 @@ sections:
       - type: Button
         label: TRACK PACKAGE
         altText: ''
-        url: 'https://quickshipnow.netlify.app/blog/'
+        url: 'https://quickshipnow.netlify.app/blog'
         showIcon: false
         icon: arrowRight
         iconPosition: right
