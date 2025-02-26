@@ -24,7 +24,7 @@ sections:
         label: TRACK PACKAGE
         altText: ''
         url: 'https://quickshipnow.netlify.app/blog/'
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
