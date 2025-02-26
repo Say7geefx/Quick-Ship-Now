@@ -268,7 +268,7 @@ sections:
       - type: Button
         label: TRACK
         altText: ''
-        url: /chinemeremjohnboscoe.aftership.com/tracking
+        url: 'https://quickshipnow.netlify.app/blog/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
